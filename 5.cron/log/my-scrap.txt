@@ -1,0 +1,29 @@
+/bin/sh: 1: /home/ubuntu/sesac/5.cron/my-scrap.py: Permission denied
+/home/ubuntu/sesac/5.cron/my-scrap.py: 1: import: not found
+from: can't read /var/mail/bs4
+/home/ubuntu/sesac/5.cron/my-scrap.py: 4: url: not found
+/home/ubuntu/sesac/5.cron/my-scrap.py: 6: Syntax error: "(" unexpected
+/home/ubuntu/sesac/5.cron/my-scrap.py: 1: import: not found
+from: can't read /var/mail/bs4
+/home/ubuntu/sesac/5.cron/my-scrap.py: 4: url: not found
+/home/ubuntu/sesac/5.cron/my-scrap.py: 6: Syntax error: "(" unexpected
+/home/ubuntu/sesac/5.cron/my-scrap.py: 1: import: not found
+from: can't read /var/mail/bs4
+/home/ubuntu/sesac/5.cron/my-scrap.py: 4: url: not found
+/home/ubuntu/sesac/5.cron/my-scrap.py: 6: Syntax error: "(" unexpected
+/home/ubuntu/sesac/5.cron/my-scrap.py: 1: import: not found
+from: can't read /var/mail/bs4
+/home/ubuntu/sesac/5.cron/my-scrap.py: 4: url: not found
+/home/ubuntu/sesac/5.cron/my-scrap.py: 6: Syntax error: "(" unexpected
+/home/ubuntu/sesac/5.cron/my-scrap.py: 1: import: not found
+from: can't read /var/mail/bs4
+/home/ubuntu/sesac/5.cron/my-scrap.py: 4: url: not found
+/home/ubuntu/sesac/5.cron/my-scrap.py: 6: Syntax error: "(" unexpected
+/home/ubuntu/sesac/5.cron/my-scrap.py: 1: import: not found
+from: can't read /var/mail/bs4
+/home/ubuntu/sesac/5.cron/my-scrap.py: 4: url: not found
+/home/ubuntu/sesac/5.cron/my-scrap.py: 6: Syntax error: "(" unexpected
+/home/ubuntu/sesac/5.cron/my-scrap.py: 1: import: not found
+from: can't read /var/mail/bs4
+/home/ubuntu/sesac/5.cron/my-scrap.py: 4: url: not found
+/home/ubuntu/sesac/5.cron/my-scrap.py: 6: Syntax error: "(" unexpected

@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  myapp-green:
+    image: toltori9/sesac-flask
+    ports:
+      - "5001:5000"
+    environment:
+      - APP_COLOR=green
+
+  myapp-yellow:
+    image: toltori9/sesac-flask
+    ports:
+      - "5002:5000"
+    environment:
+      - APP_COLOR=yellow
+
+  myapp-purple:
+    image: toltori9/sesac-flask
+    ports:
+      - "5003:5000"
+    environment:
+      - APP_COLOR=purple
+
+  my-nginx:
+    image: toltori9/sesac-nginx
+    ports:
+      - "8000:8000"
+    links:
+      - "myapp-green:myapp-green"
+      - "myapp-yellow:myapp-yellow"
+      - "myapp-purple:myapp-purple"
